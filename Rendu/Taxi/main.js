@@ -9,7 +9,7 @@ class Personnage {
 // Création de la liste de 5 musiques
 let TableauMusique = [
   '"Faded - Alan Walker"',
-  '"Heros - Alesso"',
+  '"Heroes - Alesso"',
   '"Good For You - Selena Gomez"',
   '"Morning - Charlotte Lawrence"',
   '"Anissa - Wejdene"',
